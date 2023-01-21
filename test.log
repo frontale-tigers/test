@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.euc) (TeX Live 2022) (preloaded format=platex 2023.1.21)  21 JAN 2023 23:07
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.euc) (TeX Live 2022) (preloaded format=platex 2023.1.21)  21 JAN 2023 23:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -483,13 +483,13 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 10.
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 16.
+(Font)              scaled to size 13.83836pt on input line 15.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 16.
+(Font)              scaled to size 13.83836pt on input line 15.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 16.
+(Font)              scaled to size 13.83836pt on input line 15.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 16.
+(Font)              scaled to size 13.83836pt on input line 15.
  [1
 
 ] (./test.aux)
@@ -505,4 +505,4 @@ Here is how much of TeX's memory you used:
  934 hyphenation exceptions out of 8191
  75i,6n,78p,248b,389s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on test.dvi (1 page, 1488 bytes).
+Output written on test.dvi (1 page, 1584 bytes).
